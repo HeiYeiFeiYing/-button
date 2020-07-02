@@ -16,6 +16,22 @@
 		9B417864247E113B008044F5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B417863247E113B008044F5 /* main.m */; };
 		9B41786E247E113B008044F5 /* buttonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B41786D247E113B008044F5 /* buttonTests.m */; };
 		9B417879247E113B008044F5 /* buttonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B417878247E113B008044F5 /* buttonUITests.m */; };
+		9B4636C324AC59C7005C1902 /* ZKLView1.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4636C224AC59C7005C1902 /* ZKLView1.m */; };
+		9B4636CF24AC6335005C1902 /* ZKLImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4636CE24AC6335005C1902 /* ZKLImageView.m */; };
+		9B4636D224AC6FF3005C1902 /* ZKLVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4636D124AC6FF3005C1902 /* ZKLVC.m */; };
+		9B4636D524AC70D8005C1902 /* OViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4636D424AC70D8005C1902 /* OViewController.m */; };
+		9B4636D824AC7232005C1902 /* KViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4636D724AC7232005C1902 /* KViewController.m */; };
+		9B472A6F24A064EC0057AC47 /* ZKLCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B472A6E24A064EB0057AC47 /* ZKLCollectionViewCell.m */; };
+		9B4D5BB924ADAFFF009BA5AB /* UIView+color.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4D5BB824ADAFFF009BA5AB /* UIView+color.m */; };
+		9B80D0EC24AACDCD006E575C /* redColor.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B80D0EB24AACDCD006E575C /* redColor.plist */; };
+		9B80D0EF24AACE3F006E575C /* SkinTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B80D0EE24AACE3F006E575C /* SkinTool.m */; };
+		9B80D0F124AAD338006E575C /* red2Color.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B80D0F024AAD338006E575C /* red2Color.plist */; };
+		9B80D0F624AAD418006E575C /* AnavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B80D0F224AAD418006E575C /* AnavigationViewController.m */; };
+		9B80D0F724AAD419006E575C /* MapTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B80D0F424AAD418006E575C /* MapTabBarViewController.m */; };
+		9B80D0FA24AAD432006E575C /* ZKLOneVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B80D0F924AAD432006E575C /* ZKLOneVC.m */; };
+		9B80D10324AAE418006E575C /* ZKLLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B80D10224AAE418006E575C /* ZKLLabel.m */; };
+		9B80D10624AAE648006E575C /* ZKLTwoVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B80D10524AAE648006E575C /* ZKLTwoVC.m */; };
+		9B80D10924AAEADF006E575C /* ZKLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B80D10824AAEADF006E575C /* ZKLButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +70,36 @@
 		9B417874247E113B008044F5 /* buttonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = buttonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B417878247E113B008044F5 /* buttonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = buttonUITests.m; sourceTree = "<group>"; };
 		9B41787A247E113B008044F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B4636C124AC59C7005C1902 /* ZKLView1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLView1.h; sourceTree = "<group>"; };
+		9B4636C224AC59C7005C1902 /* ZKLView1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLView1.m; sourceTree = "<group>"; };
+		9B4636CD24AC6335005C1902 /* ZKLImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLImageView.h; sourceTree = "<group>"; };
+		9B4636CE24AC6335005C1902 /* ZKLImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLImageView.m; sourceTree = "<group>"; };
+		9B4636D024AC6FF3005C1902 /* ZKLVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLVC.h; sourceTree = "<group>"; };
+		9B4636D124AC6FF3005C1902 /* ZKLVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLVC.m; sourceTree = "<group>"; };
+		9B4636D324AC70D8005C1902 /* OViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OViewController.h; sourceTree = "<group>"; };
+		9B4636D424AC70D8005C1902 /* OViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OViewController.m; sourceTree = "<group>"; };
+		9B4636D624AC7232005C1902 /* KViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KViewController.h; sourceTree = "<group>"; };
+		9B4636D724AC7232005C1902 /* KViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KViewController.m; sourceTree = "<group>"; };
+		9B472A6D24A064EB0057AC47 /* ZKLCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLCollectionViewCell.h; sourceTree = "<group>"; };
+		9B472A6E24A064EB0057AC47 /* ZKLCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLCollectionViewCell.m; sourceTree = "<group>"; };
+		9B4D5BB724ADAFFF009BA5AB /* UIView+color.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+color.h"; sourceTree = "<group>"; };
+		9B4D5BB824ADAFFF009BA5AB /* UIView+color.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+color.m"; sourceTree = "<group>"; };
+		9B80D0EB24AACDCD006E575C /* redColor.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = redColor.plist; sourceTree = "<group>"; };
+		9B80D0ED24AACE3F006E575C /* SkinTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SkinTool.h; sourceTree = "<group>"; };
+		9B80D0EE24AACE3F006E575C /* SkinTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SkinTool.m; sourceTree = "<group>"; };
+		9B80D0F024AAD338006E575C /* red2Color.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = red2Color.plist; sourceTree = "<group>"; };
+		9B80D0F224AAD418006E575C /* AnavigationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnavigationViewController.m; sourceTree = "<group>"; };
+		9B80D0F324AAD418006E575C /* AnavigationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnavigationViewController.h; sourceTree = "<group>"; };
+		9B80D0F424AAD418006E575C /* MapTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapTabBarViewController.m; sourceTree = "<group>"; };
+		9B80D0F524AAD418006E575C /* MapTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapTabBarViewController.h; sourceTree = "<group>"; };
+		9B80D0F824AAD432006E575C /* ZKLOneVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLOneVC.h; sourceTree = "<group>"; };
+		9B80D0F924AAD432006E575C /* ZKLOneVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLOneVC.m; sourceTree = "<group>"; };
+		9B80D10124AAE418006E575C /* ZKLLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLLabel.h; sourceTree = "<group>"; };
+		9B80D10224AAE418006E575C /* ZKLLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLLabel.m; sourceTree = "<group>"; };
+		9B80D10424AAE648006E575C /* ZKLTwoVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLTwoVC.h; sourceTree = "<group>"; };
+		9B80D10524AAE648006E575C /* ZKLTwoVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLTwoVC.m; sourceTree = "<group>"; };
+		9B80D10724AAEADF006E575C /* ZKLButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLButton.h; sourceTree = "<group>"; };
+		9B80D10824AAEADF006E575C /* ZKLButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,10 +156,40 @@
 				9B417855247E1136008044F5 /* SceneDelegate.m */,
 				9B417857247E1136008044F5 /* ViewController.h */,
 				9B417858247E1136008044F5 /* ViewController.m */,
+				9B80D0F324AAD418006E575C /* AnavigationViewController.h */,
+				9B80D0F224AAD418006E575C /* AnavigationViewController.m */,
+				9B80D0F524AAD418006E575C /* MapTabBarViewController.h */,
+				9B80D0F424AAD418006E575C /* MapTabBarViewController.m */,
+				9B472A6D24A064EB0057AC47 /* ZKLCollectionViewCell.h */,
+				9B472A6E24A064EB0057AC47 /* ZKLCollectionViewCell.m */,
+				9B80D0F824AAD432006E575C /* ZKLOneVC.h */,
+				9B80D0F924AAD432006E575C /* ZKLOneVC.m */,
+				9B80D10424AAE648006E575C /* ZKLTwoVC.h */,
+				9B80D10524AAE648006E575C /* ZKLTwoVC.m */,
+				9B4636D324AC70D8005C1902 /* OViewController.h */,
+				9B4636D424AC70D8005C1902 /* OViewController.m */,
+				9B4636D624AC7232005C1902 /* KViewController.h */,
+				9B4636D724AC7232005C1902 /* KViewController.m */,
+				9B80D0ED24AACE3F006E575C /* SkinTool.h */,
+				9B80D0EE24AACE3F006E575C /* SkinTool.m */,
+				9B80D10124AAE418006E575C /* ZKLLabel.h */,
+				9B80D10224AAE418006E575C /* ZKLLabel.m */,
+				9B80D10724AAEADF006E575C /* ZKLButton.h */,
+				9B80D10824AAEADF006E575C /* ZKLButton.m */,
+				9B4636C124AC59C7005C1902 /* ZKLView1.h */,
+				9B4636C224AC59C7005C1902 /* ZKLView1.m */,
+				9B4636CD24AC6335005C1902 /* ZKLImageView.h */,
+				9B4636CE24AC6335005C1902 /* ZKLImageView.m */,
+				9B4636D024AC6FF3005C1902 /* ZKLVC.h */,
+				9B4636D124AC6FF3005C1902 /* ZKLVC.m */,
+				9B4D5BB724ADAFFF009BA5AB /* UIView+color.h */,
+				9B4D5BB824ADAFFF009BA5AB /* UIView+color.m */,
 				9B41785A247E1136008044F5 /* Main.storyboard */,
 				9B41785D247E113A008044F5 /* Assets.xcassets */,
 				9B41785F247E113A008044F5 /* LaunchScreen.storyboard */,
 				9B417862247E113A008044F5 /* Info.plist */,
+				9B80D0EB24AACDCD006E575C /* redColor.plist */,
+				9B80D0F024AAD338006E575C /* red2Color.plist */,
 				9B417863247E113B008044F5 /* main.m */,
 			);
 			path = button;
@@ -242,6 +318,8 @@
 			files = (
 				9B417861247E113A008044F5 /* LaunchScreen.storyboard in Resources */,
 				9B41785E247E113A008044F5 /* Assets.xcassets in Resources */,
+				9B80D0F124AAD338006E575C /* red2Color.plist in Resources */,
+				9B80D0EC24AACDCD006E575C /* redColor.plist in Resources */,
 				9B41785C247E1136008044F5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,10 +345,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B80D0FA24AAD432006E575C /* ZKLOneVC.m in Sources */,
 				9B417859247E1136008044F5 /* ViewController.m in Sources */,
+				9B4636C324AC59C7005C1902 /* ZKLView1.m in Sources */,
 				9B417853247E1136008044F5 /* AppDelegate.m in Sources */,
+				9B80D0EF24AACE3F006E575C /* SkinTool.m in Sources */,
+				9B80D0F624AAD418006E575C /* AnavigationViewController.m in Sources */,
+				9B472A6F24A064EC0057AC47 /* ZKLCollectionViewCell.m in Sources */,
+				9B80D10624AAE648006E575C /* ZKLTwoVC.m in Sources */,
+				9B4D5BB924ADAFFF009BA5AB /* UIView+color.m in Sources */,
+				9B80D10324AAE418006E575C /* ZKLLabel.m in Sources */,
+				9B4636CF24AC6335005C1902 /* ZKLImageView.m in Sources */,
+				9B4636D824AC7232005C1902 /* KViewController.m in Sources */,
+				9B4636D524AC70D8005C1902 /* OViewController.m in Sources */,
+				9B80D0F724AAD419006E575C /* MapTabBarViewController.m in Sources */,
 				9B417864247E113B008044F5 /* main.m in Sources */,
+				9B4636D224AC6FF3005C1902 /* ZKLVC.m in Sources */,
 				9B417856247E1136008044F5 /* SceneDelegate.m in Sources */,
+				9B80D10924AAEADF006E575C /* ZKLButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,6 +534,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = WNMJG456YH;
 				INFOPLIST_FILE = button/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -459,6 +552,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = WNMJG456YH;
 				INFOPLIST_FILE = button/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
