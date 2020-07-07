@@ -22,6 +22,7 @@
 		9B4636D524AC70D8005C1902 /* OViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4636D424AC70D8005C1902 /* OViewController.m */; };
 		9B4636D824AC7232005C1902 /* KViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4636D724AC7232005C1902 /* KViewController.m */; };
 		9B472A6F24A064EC0057AC47 /* ZKLCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B472A6E24A064EB0057AC47 /* ZKLCollectionViewCell.m */; };
+		9B4B46CF24AEB7F100F7797A /* UIButton+Color.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4B46CE24AEB7F100F7797A /* UIButton+Color.m */; };
 		9B4D5BB924ADAFFF009BA5AB /* UIView+color.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4D5BB824ADAFFF009BA5AB /* UIView+color.m */; };
 		9B80D0EC24AACDCD006E575C /* redColor.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B80D0EB24AACDCD006E575C /* redColor.plist */; };
 		9B80D0EF24AACE3F006E575C /* SkinTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B80D0EE24AACE3F006E575C /* SkinTool.m */; };
@@ -82,6 +83,8 @@
 		9B4636D724AC7232005C1902 /* KViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KViewController.m; sourceTree = "<group>"; };
 		9B472A6D24A064EB0057AC47 /* ZKLCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKLCollectionViewCell.h; sourceTree = "<group>"; };
 		9B472A6E24A064EB0057AC47 /* ZKLCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKLCollectionViewCell.m; sourceTree = "<group>"; };
+		9B4B46CD24AEB7F100F7797A /* UIButton+Color.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+Color.h"; sourceTree = "<group>"; };
+		9B4B46CE24AEB7F100F7797A /* UIButton+Color.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Color.m"; sourceTree = "<group>"; };
 		9B4D5BB724ADAFFF009BA5AB /* UIView+color.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+color.h"; sourceTree = "<group>"; };
 		9B4D5BB824ADAFFF009BA5AB /* UIView+color.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+color.m"; sourceTree = "<group>"; };
 		9B80D0EB24AACDCD006E575C /* redColor.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = redColor.plist; sourceTree = "<group>"; };
@@ -184,6 +187,8 @@
 				9B4636D124AC6FF3005C1902 /* ZKLVC.m */,
 				9B4D5BB724ADAFFF009BA5AB /* UIView+color.h */,
 				9B4D5BB824ADAFFF009BA5AB /* UIView+color.m */,
+				9B4B46CD24AEB7F100F7797A /* UIButton+Color.h */,
+				9B4B46CE24AEB7F100F7797A /* UIButton+Color.m */,
 				9B41785A247E1136008044F5 /* Main.storyboard */,
 				9B41785D247E113A008044F5 /* Assets.xcassets */,
 				9B41785F247E113A008044F5 /* LaunchScreen.storyboard */,
@@ -362,6 +367,7 @@
 				9B417864247E113B008044F5 /* main.m in Sources */,
 				9B4636D224AC6FF3005C1902 /* ZKLVC.m in Sources */,
 				9B417856247E1136008044F5 /* SceneDelegate.m in Sources */,
+				9B4B46CF24AEB7F100F7797A /* UIButton+Color.m in Sources */,
 				9B80D10924AAEADF006E575C /* ZKLButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
